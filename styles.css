@@ -1,8 +1,17 @@
 :root {
     --gray: #282828;
     --darkerGray: #141414;
+    --yellow: #ffd319;
+    --orange: #ff901f;
+    --pink: #ff2975;
+    --magenta: #c700b5;
+    --purple: #b000ff;
 }
 
 body {
+    background-color: var(--darkerGray);
+}
+
+.nav-bg {
     background-color: var(--gray);
 }
