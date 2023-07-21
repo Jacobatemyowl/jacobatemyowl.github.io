@@ -34,3 +34,32 @@ body {
 .fa-icon {
     font-size: 3em;
 }
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.custom-btn {
+    background: var(--yellow);
+    color: var(--pink)
+}
+
+.custom-btn:hover {
+    color: var(--darkerPurple)
+}
+
+.resume-icon {
+    color: #f2cf67;
+    padding-bottom: 25px; 
+}
+
+.resume-title {
+    font-size: 2em;
+}
+
+.resume-desc {
+    font-size: 1em;
+}
