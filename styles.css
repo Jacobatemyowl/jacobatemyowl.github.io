@@ -12,6 +12,6 @@ body {
     background-color: var(--darkerGray);
 }
 
-.nav-bg {
+.custom-bg {
     background-color: var(--gray);
 }
