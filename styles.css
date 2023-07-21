@@ -63,3 +63,8 @@ body {
 .resume-desc {
     font-size: 1em;
 }
+
+.project-desc li {
+    color: white;
+}
+
