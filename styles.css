@@ -27,7 +27,7 @@ body {
 
 .nav-item:hover {
     background-color: var(--pink);
-    border-radius: 10%;
+    border-radius: 5px;
     color: white;
 }
 
