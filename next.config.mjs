@@ -1,9 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'export',
+    reactStrictMode: true,
     images: {
-      unoptimized: true,
+      unoptimized: true, // Disable default image optimization
     },
+    output: 'export'
   };
 
 export default nextConfig;
